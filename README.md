@@ -13,7 +13,7 @@ The settings for the PCB should look like this: (You can change the color or sur
 <img width="1198" height="1219" alt="image" src="https://github.com/user-attachments/assets/78ebcbae-4abc-4560-82ea-8508d3b01147" />
 
 What is it made for?
-I am a little streaner who needs a soundboard/"Streamdeck" and it is a good oportunity to get one "for free" :). 
+I am a little streamer who needs a soundboard/"Streamdeck" and it is a good oportunity to get one "for free" :). 
 I hope you all like the design (Its my first one in Fusion).
 
 !!The Case might change after I get the PCB!!
