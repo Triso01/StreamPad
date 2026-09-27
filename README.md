@@ -1,5 +1,6 @@
 The Case:
 <img width="1338" height="778" alt="image" src="https://github.com/user-attachments/assets/f62457e7-f914-40ab-8e4e-343d61dce3c4" />
+<img width="1432" height="891" alt="image" src="https://github.com/user-attachments/assets/49d9bb49-42b4-4629-a053-309f526a8df0" />
 On the left the topplate and on the right the case.
 You should print the TopPlate with 100% Gyroid infill.
 The Case should be printed with 20%< Gyriod Infill.
@@ -16,4 +17,7 @@ What is it made for?
 I am a little streamer who needs a soundboard/"Streamdeck" and it is a good oportunity to get one "for free" :). 
 I hope you all like the design (Its my first one in Fusion).
 
+BOM:
+HackPad Kit (You dont have a kit? You can find the components here: https://hackpad.hackclub.com/parts)
+You also need 2x CD4051BM (these are Multiplexers)
 !!The Case might change after I get the PCB!!
